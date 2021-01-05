@@ -124,3 +124,37 @@ alert(isNo,'');
 
 document.write(isYes)
 document.write(isNo);
+
+// task 3
+
+const  user = 'Bob';
+const adress = 'Khakiv';
+const  user2 = 'Bill';
+
+const width = 38;
+const sizeLeg = 41;
+const height = 174;
+
+console.log(user);
+console.log(user2);
+console.log(adress);
+console.log(width);
+console.log(sizeLeg);
+console.log(height);
+
+alert(user, '');
+alert(user2 ,'');
+alert(adress, '');
+alert(sizeLeg);
+alert(width, '');
+alert(height, '');
+
+document.write(user);
+document.write(user2);
+document.write(adress);
+document.write(sizeLeg);
+document.write(width);
+document.write(height);
+
+
+
