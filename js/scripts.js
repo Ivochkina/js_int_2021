@@ -314,12 +314,58 @@
 // task 12
 // typeof
 
-let a = 100;
-let b = '100';
-let c = true;
-let d = undefined;
+// let a = 100;
+// let b = '100';
+// let c = true;
+// let d = undefined;
+//
+// console.log(typeof a);
+// console.log(typeof b);
+// console.log(typeof c);
+// console.log(typeof d);
 
-console.log(typeof a);
-console.log(typeof b);
-console.log(typeof c);
-console.log(typeof d);
+// task 13
+
+// let aTask13 = 5 < 6;
+// console.log(aTask13);
+// // -> true
+//
+// let bTask13 = 5 == 6;
+// console.log(bTask13);
+// // -> false
+//
+// let cTask13 = 5 > 6;
+// console.log(cTask13);
+// // -> false
+//
+// let dTask13 = 5 >= 6;
+// console.log(dTask13);
+// // -> false
+//
+// let eTask13 = 10 == 10;
+// console.log(eTask13);
+// // -> true
+
+let fTask13 = 10 === 10;
+console.log(fTask13);
+// -> true
+
+let gTask = 10 < 10;
+console.log(gTask);
+// -> false
+
+let kTask13 = 10 != 10;
+console.log(kTask13);
+// > false
+
+let nTask13 = 10 > 10;
+console.log(nTask13);
+// -> false
+
+let  mTask = 123 ==='123';
+console.log(mTask);
+// -> false
+
+let lTasr = 123 !=='123';
+console.log(lTasr);
+// -> true
