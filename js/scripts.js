@@ -303,10 +303,23 @@
 // task 11
 // Math.pow()
 
-let num14 = prompt('Enter first number' ,'');
-let num15 = prompt('Enter second number', '');
+// let num14 = prompt('Enter first number' ,'');
+// let num15 = prompt('Enter second number', '');
+//
+//
+// let result11 = Math.pow(parseInt(num14), parseInt(num15));
+//
+// console.log(result11);
 
+// task 12
+// typeof
 
-let result11 = Math.pow(parseInt(num14), parseInt(num15));
+let a = 100;
+let b = '100';
+let c = true;
+let d = undefined;
 
-console.log(result11);
+console.log(typeof a);
+console.log(typeof b);
+console.log(typeof c);
+console.log(typeof d);
