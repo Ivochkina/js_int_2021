@@ -1,5 +1,9 @@
 'use strict'
 
+
+
+
+
 // task 1
 let mess = 'hello';
 let test1 = 'owu';
@@ -62,6 +66,11 @@ alert(isNo);
 
 document.write(isYes +'<br>');
 document.write(isNo +'<br>');
+
+
+
+
+
 
 // task 2
 
@@ -233,6 +242,18 @@ let personDaughter = (daughterFirstName + ' ' + daughterLastName + ' ' + daughte
 console.log(personDaughter);
 alert(personDaughter);
 document.write(personDaughter);
+
+ // task7
+
+let num1 = prompt('Enter first number' ,'');
+let num2 = prompt('Enter second number', '');
+let num3 = prompt('Enter third number', '');
+
+console.log(+num1);
+console.log(+num2);
+console.log(+num3);
+
+
 
 
 
