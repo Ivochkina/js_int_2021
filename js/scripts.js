@@ -1,5 +1,6 @@
 'use strict'
 
+// task 1
 let mess = 'hello';
 let test1 = 'owu';
 let web = 'com';
@@ -62,5 +63,64 @@ alert(isNo,'');
 document.write(isYes +'<br>');
 document.write(isNo +'<br>');
 
+// task 2
 
+mess = 'goodbye';
+test1 = 'opppsss';
+web = 'org';
+country = 'ru';
 
+console .log(mess);
+console .log(test1);
+console .log(web);
+console.log(country);
+
+alert(mess, '');
+alert(test1, '');
+alert(web,'');
+alert(country, '');
+
+document.write(mess);
+document.write(test1);
+document.write(web);
+document.write(country);
+
+day = 5;
+mounth = 12;
+num = -888;
+test2 = 321;
+pi = 3.141264634;
+age = 18;
+
+console.log(day);
+console.log(mounth);
+console.log(num);
+console.log(test2);
+console.log(pi);
+console.log(age);
+
+alert(day, '');
+alert(mounth, '');
+alert(num, '');
+alert(test2, '');
+alert(pi, '');
+alert(age, '');
+
+document.write(day);
+document.write(mounth);
+document.write(num);
+document.write(test2);
+document.write(pi);
+document.write(age);
+
+isYes = false;
+isNo= true;
+
+console.log(isYes);
+console.log(isNo);
+
+alert(isYes,'');
+alert(isNo,'');
+
+document.write(isYes)
+document.write(isNo);
