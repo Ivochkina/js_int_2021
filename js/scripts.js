@@ -266,7 +266,22 @@ console.log(parseInt(num5));
 console.log(parseInt(num6));
 console.log(parseInt(num7));
 
-let result = (parseInt(num4) + parseInt(num5) +parseInt(num6) + parseInt(num7));
+let resultTask8 = (parseInt(num4) + parseInt(num5) +parseInt(num6) + parseInt(num7));
 
-console.log(result);
+console.log(resultTask8);
 
+// task 9
+// parseFloat()
+
+let num8 = prompt('Enter first number' ,'');
+let num9 = prompt('Enter second number', '');
+let num10 = prompt('Enter third number', '');
+
+console.log(parseFloat(num8));
+console.log(parseFloat(num9));
+console.log(parseFloat(num10));
+
+let resultTask9 = (parseFloat(num8)+ parseFloat(num9)+ parseFloat(num10))
+
+
+console.log(resultTask9);
