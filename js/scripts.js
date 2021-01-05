@@ -287,15 +287,26 @@
 
 // task 10
 // Math.round
+//
+// let num11 = prompt('Enter first number' ,'');
+// let num12 = prompt('Enter second number', '');
+// let num13 = prompt('Enter third number', '');
+//
+// console.log(Math.round(num11));
+// console.log(Math.round(num12));
+// console.log(Math.round(num13));
+//
+// let resultTask10 = (Math.round(num11) + Math.round(num12) + Math.round(num13));
+//
+// console.log(resultTask10);
 
-let num11 = prompt('Enter first number' ,'');
-let num12 = prompt('Enter second number', '');
-let num13 = prompt('Enter third number', '');
+// task 11
+// Math.pow()
 
-console.log(Math.round(num11));
-console.log(Math.round(num12));
-console.log(Math.round(num13));
+let num14 = prompt('Enter first number' ,'');
+let num15 = prompt('Enter second number', '');
 
-let resultTask10 = (Math.round(num11) + Math.round(num12) + Math.round(num13));
 
-console.log(resultTask10);
+let result11 = Math.pow(parseInt(num14), parseInt(num15));
+
+console.log(result11);
