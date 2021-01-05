@@ -173,5 +173,12 @@ document.write(firstName);
 document.write(lastName);
 document.write(middleName);
 
+// task 5
 
+let person = (firstName + ' ' + lastName + ' ' + middleName);
 
+alert(person);
+
+console.log(person);
+
+document.write(person);
