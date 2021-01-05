@@ -131,7 +131,7 @@ const  user = 'Bob';
 const adress = 'Khakiv';
 const  user2 = 'Bill';
 
-const width = 38;
+const width = 45;
 const sizeLeg = 41;
 const height = 174;
 
