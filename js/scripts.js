@@ -11,10 +11,10 @@ console.log(test1);
 console.log(web);
 console.log(country);
 
-alert(mess, '');
-alert(test1, '');
-alert(web, '');
-alert(country, '');
+alert(mess);
+alert(test1);
+alert(web);
+alert(country);
 
 document.write(mess + '<br>');
 document.write(test1 + '<br>');
@@ -37,12 +37,12 @@ console.log(test2);
 console.log(pi);
 console.log(age);
 
-alert(day, '');
-alert(mounth, '');
-alert(num, '');
-alert(test2, '');
-alert(pi, '');
-alert(age, '');
+alert(day);
+alert(mounth);
+alert(num);
+alert(test2);
+alert(pi);
+alert(age);
 
 document.write(day +'<br>');
 document.write(mounth +'<br>');
@@ -57,8 +57,8 @@ let isNo= false;
 console.log(isYes);
 console.log(isNo);
 
-alert(isYes,'');
-alert(isNo,'');
+alert(isYes);
+alert(isNo);
 
 document.write(isYes +'<br>');
 document.write(isNo +'<br>');
@@ -75,10 +75,10 @@ console .log(test1);
 console .log(web);
 console.log(country);
 
-alert(mess, '');
-alert(test1, '');
-alert(web,'');
-alert(country, '');
+alert(mess);
+alert(test1);
+alert(web);
+alert(country);
 
 document.write(mess);
 document.write(test1);
@@ -99,12 +99,12 @@ console.log(test2);
 console.log(pi);
 console.log(age);
 
-alert(day, '');
-alert(mounth, '');
-alert(num, '');
-alert(test2, '');
-alert(pi, '');
-alert(age, '');
+alert(day);
+alert(mounth);
+alert(num);
+alert(test2);
+alert(pi);
+alert(age);
 
 document.write(day);
 document.write(mounth);
@@ -119,8 +119,8 @@ isNo= true;
 console.log(isYes);
 console.log(isNo);
 
-alert(isYes,'');
-alert(isNo,'');
+alert(isYes);
+alert(isNo);
 
 document.write(isYes)
 document.write(isNo);
@@ -142,12 +142,12 @@ console.log(width);
 console.log(sizeLeg);
 console.log(height);
 
-alert(user, '');
-alert(user2 ,'');
-alert(adress, '');
+alert(user);
+alert(user2);
+alert(adress);
 alert(sizeLeg);
-alert(width, '');
-alert(height, '');
+alert(width);
+alert(height);
 
 document.write(user);
 document.write(user2);
@@ -155,6 +155,23 @@ document.write(adress);
 document.write(sizeLeg);
 document.write(width);
 document.write(height);
+
+// task 4
+let firstName = prompt('Enter you name', '');
+let  lastName = prompt('Enter you last name', '');
+let middleName = prompt('Enter you middle name', '');
+
+console.log(firstName);
+console.log(lastName);
+console.log(middleName);
+
+alert(firstName);
+alert(lastName);
+alert(middleName);
+
+document.write(firstName);
+document.write(lastName);
+document.write(middleName);
 
 
 
