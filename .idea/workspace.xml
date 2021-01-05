@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ffa204d-e7c2-4f94-8a34-eed9617efb51" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/scripts.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +68,7 @@
       <workItem from="1590232602858" duration="2348000" />
       <workItem from="1609789813922" duration="3375000" />
       <workItem from="1609798488293" duration="2291000" />
-      <workItem from="1609839327992" duration="21034000" />
+      <workItem from="1609839327992" duration="22486000" />
     </task>
     <task id="LOCAL-00001" summary="create 1 task">
       <created>1609849948939</created>
@@ -132,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609866274887</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="created  task 9 parseFloat()">
+      <created>1609866681526</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1609866681526</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,6 +155,7 @@
     <MESSAGE value="created  task 6" />
     <MESSAGE value="created  task 7" />
     <MESSAGE value="created  task 8 parseInt" />
-    <option name="LAST_COMMIT_MESSAGE" value="created  task 8 parseInt" />
+    <MESSAGE value="created  task 9 parseFloat()" />
+    <option name="LAST_COMMIT_MESSAGE" value="created  task 9 parseFloat()" />
   </component>
 </project>

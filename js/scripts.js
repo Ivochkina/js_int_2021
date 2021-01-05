@@ -255,33 +255,47 @@
 
 // task 8
 // parseInt()
+//
+// let num4 = prompt('Enter first number' ,'');
+// let num5 = prompt('Enter second number', '');
+// let num6 = prompt('Enter third number', '');
+// let num7 = prompt('Enter fourth number' ,'');
+//
+// console.log(parseInt(num4));
+// console.log(parseInt(num5));
+// console.log(parseInt(num6));
+// console.log(parseInt(num7));
+//
+// let resultTask8 = (parseInt(num4) + parseInt(num5) +parseInt(num6) + parseInt(num7));
+//
+// console.log(resultTask8);
+//
+// // task 9
+// // parseFloat()
+//
+// let num8 = prompt('Enter first number' ,'');
+// let num9 = prompt('Enter second number', '');
+// let num10 = prompt('Enter third number', '');
+//
+// console.log(parseFloat(num8));
+// console.log(parseFloat(num9));
+// console.log(parseFloat(num10));
+//
+// let resultTask9 = (parseFloat(num8)+ parseFloat(num9)+ parseFloat(num10))
+//
+// console.log(resultTask9);
 
-let num4 = prompt('Enter first number' ,'');
-let num5 = prompt('Enter second number', '');
-let num6 = prompt('Enter third number', '');
-let num7 = prompt('Enter fourth number' ,'');
+// task 10
+// Math.round
 
-console.log(parseInt(num4));
-console.log(parseInt(num5));
-console.log(parseInt(num6));
-console.log(parseInt(num7));
+let num11 = prompt('Enter first number' ,'');
+let num12 = prompt('Enter second number', '');
+let num13 = prompt('Enter third number', '');
 
-let resultTask8 = (parseInt(num4) + parseInt(num5) +parseInt(num6) + parseInt(num7));
+console.log(Math.round(num11));
+console.log(Math.round(num12));
+console.log(Math.round(num13));
 
-console.log(resultTask8);
+let resultTask10 = (Math.round(num11) + Math.round(num12) + Math.round(num13));
 
-// task 9
-// parseFloat()
-
-let num8 = prompt('Enter first number' ,'');
-let num9 = prompt('Enter second number', '');
-let num10 = prompt('Enter third number', '');
-
-console.log(parseFloat(num8));
-console.log(parseFloat(num9));
-console.log(parseFloat(num10));
-
-let resultTask9 = (parseFloat(num8)+ parseFloat(num9)+ parseFloat(num10))
-
-
-console.log(resultTask9);
+console.log(resultTask10);
