@@ -182,3 +182,58 @@ alert(person);
 console.log(person);
 
 document.write(person);
+
+// task 6
+// myHusband
+
+let husbandFirstName = prompt('Enter husban name', '');
+let husbandLastName = prompt('Enter husband last name');
+let husbandMiddleName = prompt('Enter husband middle name');
+
+console.log(husbandFirstName);
+console.log(husbandLastName);
+console.log(husbandMiddleName);
+
+alert(husbandFirstName);
+alert(husbandLastName);
+alert(husbandMiddleName);
+
+document.write(husbandFirstName);
+document.write(husbandLastName);
+document.write(husbandMiddleName);
+
+// myDaughter
+
+let personHusband =(husbandFirstName + ' ' + husbandLastName + ' ' + husbandMiddleName);
+
+console.log(personHusband);
+
+alert(personHusband);
+
+document.write(personHusband);
+
+let daughterFirstName = prompt('Enter daughter name', '');
+let daughterLastName = prompt('Enter  daughter last name');
+let daughterMiddleName = prompt('Enter  daughter middle name');
+
+console.log(daughterFirstName);
+console.log(daughterLastName);
+console.log(daughterMiddleName);
+
+alert(daughterFirstName);
+alert(daughterLastName);
+alert(daughterMiddleName);
+
+document.write(daughterFirstName);
+document.write(daughterLastName);
+document.write(daughterMiddleName);
+
+let personDaughter = (daughterFirstName + ' ' + daughterLastName + ' ' + daughterMiddleName);
+
+console.log(personDaughter);
+alert(personDaughter);
+document.write(personDaughter);
+
+
+
+
