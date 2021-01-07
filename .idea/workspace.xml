@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ffa204d-e7c2-4f94-8a34-eed9617efb51" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/task_Class.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/task_Class.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +71,7 @@
       <workItem from="1609798488293" duration="2291000" />
       <workItem from="1609839327992" duration="31753000" />
       <workItem from="1609933230303" duration="777000" />
-      <workItem from="1610019904889" duration="4484000" />
+      <workItem from="1610019904889" duration="4794000" />
     </task>
     <task id="LOCAL-00001" summary="create 1 task">
       <created>1609849948939</created>
@@ -242,7 +241,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610023689763</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="created task 10">
+      <created>1610024525545</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1610024525545</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -272,20 +278,21 @@
     <MESSAGE value="created task 7" />
     <MESSAGE value="created task 8" />
     <MESSAGE value="created task 9" />
-    <option name="LAST_COMMIT_MESSAGE" value="created task 9" />
+    <MESSAGE value="created task 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="created task 10" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/js/task_Class.js</url>
-          <line>68</line>
+          <line>66</line>
           <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/js/task_Class.js</url>
-          <line>133</line>
+          <line>125</line>
           <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
