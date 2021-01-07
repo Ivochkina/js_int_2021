@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ffa204d-e7c2-4f94-8a34-eed9617efb51" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/task_Class.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/task_Class.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +72,7 @@
       <workItem from="1609798488293" duration="2291000" />
       <workItem from="1609839327992" duration="31753000" />
       <workItem from="1609933230303" duration="777000" />
-      <workItem from="1610019904889" duration="1755000" />
+      <workItem from="1610019904889" duration="2627000" />
     </task>
     <task id="LOCAL-00001" summary="create 1 task">
       <created>1609849948939</created>
@@ -199,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610021436424</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="created task 4">
+      <created>1610021677168</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1610021677168</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,6 +231,19 @@
     <MESSAGE value="created new file task_Class" />
     <MESSAGE value="created task 2" />
     <MESSAGE value="created task 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="created task 3" />
+    <MESSAGE value="created task 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="created task 4" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/task_Class.js</url>
+          <line>68</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

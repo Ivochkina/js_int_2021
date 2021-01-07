@@ -63,6 +63,21 @@ let height = 23;
 let wigth = 10;
 
 let s = height * wigth;
-console.log(s)
+
+console.log(s);
+
+// 5.  Напиши код, который находит объем цилиндра высотой 10м (переменная heightC) и диаметром основания 4м (dC),
+//   результат поместите в переменную v.
+
+let heightC = 10;
+let dC = 4;
+
+let rC = dC / 2;
+
+let v = 3.14 * Math.pow(rC, 2) * heightC;
+
+console.log(v);
+
+
 
 
