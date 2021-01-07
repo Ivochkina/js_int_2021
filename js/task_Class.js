@@ -144,3 +144,11 @@ NaN
 
 let str7 = prompt("Enter something", "ho-ho");
 console.log(str7);
+
+// 13. С помощью окна ввода, вызываемого методом prompt, сделать сложение двух чисел, а вывод результата при помощи метода alert
+
+let d = +prompt('Enter first numder', '');
+let g = +prompt('Enter second number', '');
+
+alert(d+g);
+
