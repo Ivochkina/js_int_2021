@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ffa204d-e7c2-4f94-8a34-eed9617efb51" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/task_Class.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/task_Class.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +71,7 @@
       <workItem from="1609798488293" duration="2291000" />
       <workItem from="1609839327992" duration="31753000" />
       <workItem from="1609933230303" duration="777000" />
-      <workItem from="1610019904889" duration="2627000" />
+      <workItem from="1610019904889" duration="2942000" />
     </task>
     <task id="LOCAL-00001" summary="create 1 task">
       <created>1609849948939</created>
@@ -207,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610021677168</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="created task 5">
+      <created>1610022606000</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1610022606000</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,7 +238,8 @@
     <MESSAGE value="created task 2" />
     <MESSAGE value="created task 3" />
     <MESSAGE value="created task 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="created task 4" />
+    <MESSAGE value="created task 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="created task 5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
