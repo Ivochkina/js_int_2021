@@ -138,4 +138,9 @@ console. log( parseInt('-7.875'));
 console. log( parseInt('435'));
 // 435
 console. log( parseInt('Вася'));
-// NaN
+NaN
+
+// 12.  С помощью окна ввода, вызываемого методом prompt, пользователь может ввести данные, которые будут использоваться далее, повторите код ниже
+
+let str7 = prompt("Enter something", "ho-ho");
+console.log(str7);
