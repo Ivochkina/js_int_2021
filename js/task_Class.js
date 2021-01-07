@@ -91,3 +91,13 @@ let k2 = Math.pow(n , 2) + Math.pow(m , 2);
 let k = Math.sqrt(k2);
 
 console.log(k);
+
+
+// 7. Напишите скрипт, который выводит "Hello world", создавши переменную str и выводить спомощью document.write, alert и console.log
+
+let str1 = 'Hello world';
+
+alert(str1);
+console.log(str1);
+document.write(str1);
+
