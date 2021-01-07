@@ -106,3 +106,17 @@ document.write(str1);
 alert("Ивочкина Елена Анатольевна");
 alert(37);
 alert('Бильярд');
+
+
+//
+// 9. Создать 4 переменные с использованием ключевого слова let с именами str1, str2, str3, concatenation.
+//   Переменной str1 присвоить фразу ‘Кто ‘, str2 – ‘ты ‘, str3 – ‘такой?’
+//   Локальной переменной concatenation присвоить результат конкатенации 3-х строк: str1, str2, str3.
+//   Вывести в документ содержимое переменной concatenation спомощью document.write
+
+let str2 = 'Кто';
+let str3 = 'ты'
+let str4 = 'такой ?'
+let concatenation = (str2 + ' ' + str3 + ' ' + str4);
+
+document.write(concatenation);
