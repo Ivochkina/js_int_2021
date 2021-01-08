@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ffa204d-e7c2-4f94-8a34-eed9617efb51" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/task_Class.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/task_Class.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +73,7 @@
       <workItem from="1609839327992" duration="31753000" />
       <workItem from="1609933230303" duration="777000" />
       <workItem from="1610019904889" duration="6442000" />
-      <workItem from="1610096085822" duration="6963000" />
+      <workItem from="1610096085822" duration="8232000" />
     </task>
     <task id="LOCAL-00001" summary="create 1 task">
       <created>1609849948939</created>
@@ -284,14 +285,20 @@
       <option name="project" value="LOCAL" />
       <updated>1610102669623</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="created task">
+      <created>1610103241793</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1610103241793</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="created  task 5" />
     <MESSAGE value="created  task 6" />
     <MESSAGE value="created  task 7" />
     <MESSAGE value="created  task 8 parseInt" />
@@ -316,7 +323,8 @@
     <MESSAGE value="created task 13" />
     <MESSAGE value="created task 14" />
     <MESSAGE value="created task if else" />
-    <option name="LAST_COMMIT_MESSAGE" value="created task if else" />
+    <MESSAGE value="created task" />
+    <option name="LAST_COMMIT_MESSAGE" value="created task" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
