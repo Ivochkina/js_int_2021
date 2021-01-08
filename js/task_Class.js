@@ -164,37 +164,37 @@
 
 // 1. Три різних числа вводяться через prompt().
 //   За допомоги if else вивести іх в порядку зростання. (відсортувати по зростанню)
-
-let num1 = +prompt('Введите первое число', '');
-let num2 = +prompt('Введите второе число', '');
-let num3 = +prompt('Введите третье число' ,'');
 //
-if (num1 <= num3 && num1 <= num2 && num2 <= num3){
-  console.log(num1, num2, num3);
-
-}else if (num1 >= num2 && num1 >=num3 && num2 >= num3 ){
-  console.log(num3, num2, num1);
-
-}else if (num2 >= num1 && num2 >= num3 && num1 >= num3){
-  console.log(num3, num1, num2);
-
-}else if (num2 <= num1 && num2 <= num3 && num1<=num3){
-  console.log(num2, num1, num3 );
-
-}else if (num3 >= num1 && num3>= num2 && num1 >=num3){
-  console.log(num1, num2, num3);
-
-}else if (num3 <= num1 && num3 <= num2 && num1 <= num3){
-  console.log(num3, num2, num1);
-
-}else if (num1 <= num3 && num1 <= num2 && num2 >= num3) {
-  console.log(num1, num3, num2);
-
-
-} else if (num1 >= num2 && num1 >= num3 && num2 <= num3){
-
-  console.log(num2, num3, num1);
-}
+// let num1 = +prompt('Введите первое число', '');
+// let num2 = +prompt('Введите второе число', '');
+// let num3 = +prompt('Введите третье число' ,'');
+// //
+// if (num1 <= num3 && num1 <= num2 && num2 <= num3){
+//   console.log(num1, num2, num3);
+//
+// }else if (num1 >= num2 && num1 >=num3 && num2 >= num3 ){
+//   console.log(num3, num2, num1);
+//
+// }else if (num2 >= num1 && num2 >= num3 && num1 >= num3){
+//   console.log(num3, num1, num2);
+//
+// }else if (num2 <= num1 && num2 <= num3 && num1<=num3){
+//   console.log(num2, num1, num3 );
+//
+// }else if (num3 >= num1 && num3>= num2 && num1 >=num3){
+//   console.log(num1, num2, num3);
+//
+// }else if (num3 <= num1 && num3 <= num2 && num1 <= num3){
+//   console.log(num3, num2, num1);
+//
+// }else if (num1 <= num3 && num1 <= num2 && num2 >= num3) {
+//   console.log(num1, num3, num2);
+//
+//
+// } else if (num1 >= num2 && num1 >= num3 && num2 <= num3){
+//
+//   console.log(num2, num3, num1);
+// }
 
 
 // Все параматры получаем с клавиатуры!!!!
@@ -204,3 +204,17 @@ if (num1 <= num3 && num1 <= num2 && num2 <= num3){
 //   Если светофор красный - вывести "стой".
 //   Если светофор в аварийном режиме вывести "делай что хочешь"!
 
+let d = prompt('Введите цвет светофора', '');
+
+if (d === 'зеленый'){
+  alert('иди');
+
+}else if (d === 'желтый') {
+  alert('подожди');
+
+}else if (d === 'красный'){
+  alert('стой');
+
+}else {
+  alert('делай что хочешь');
+}
