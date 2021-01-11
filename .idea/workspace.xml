@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ffa204d-e7c2-4f94-8a34-eed9617efb51" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/js/task_array1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/task_array2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/task_object1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/scripts.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +76,7 @@
       <workItem from="1609933230303" duration="777000" />
       <workItem from="1610019904889" duration="6442000" />
       <workItem from="1610096085822" duration="20261000" />
-      <workItem from="1610200557794" duration="17920000" />
+      <workItem from="1610200557794" duration="54069000" />
     </task>
     <task id="LOCAL-00001" summary="create 1 task">
       <created>1609849948939</created>
@@ -309,14 +309,20 @@
       <option name="project" value="LOCAL" />
       <updated>1610104681054</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="finished task_array p.1">
+      <created>1610279862396</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1610279862396</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="created  task 8 parseInt" />
     <MESSAGE value="created  task 9 parseFloat()" />
     <MESSAGE value="created  task 10 Math.round" />
     <MESSAGE value="created  task 11 Math.pow()" />
@@ -341,6 +347,7 @@
     <MESSAGE value="created task" />
     <MESSAGE value="finished all first task" />
     <MESSAGE value="fsef" />
-    <option name="LAST_COMMIT_MESSAGE" value="fsef" />
+    <MESSAGE value="finished task_array p.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished task_array p.1" />
   </component>
 </project>
