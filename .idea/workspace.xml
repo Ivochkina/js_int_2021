@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ffa204d-e7c2-4f94-8a34-eed9617efb51" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Lessons_object/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons_object/main_script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/task_array1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_array/task_array1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/task_array2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_array/task_array2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/task_object1.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/task_object1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/.sass-cache/5b006e873ecef93ee00d29d27f56b646fd2f65d5/style_prepros.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/.sass-cache/c4a013bb6a9dd831c599989c3921a200e1c92d48/style_prepros.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style_prepros.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style_prepros.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style_prepros.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/task_object1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons_object/task_object1.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +60,7 @@
       <recent name="C:\Users\Admin\Desktop\start project\css" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Desktop\js_intensiv_1\Lessons_object" />
       <recent name="C:\Users\Admin\Desktop\js_intensiv_1\Lesson_array" />
       <recent name="C:\Users\Admin\Desktop\js_intensiv_1" />
       <recent name="C:\Users\Admin\Desktop\js_intensiv_1\images\Lessons_object" />
@@ -87,7 +88,7 @@
       <workItem from="1610096085822" duration="20261000" />
       <workItem from="1610200557794" duration="61385000" />
       <workItem from="1610477271731" duration="2223000" />
-      <workItem from="1610722312570" duration="17819000" />
+      <workItem from="1610722312570" duration="18223000" />
     </task>
     <task id="LOCAL-00001" summary="create 1 task">
       <created>1609849948939</created>
@@ -334,15 +335,38 @@
       <option name="project" value="LOCAL" />
       <updated>1610392341614</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="object">
+      <created>1610741514291</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1610741514291</updated>
+    </task>
+    <task id="LOCAL-00037" summary="object finished">
+      <created>1610741753252</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1610741753252</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="created  task 10 Math.round" />
-    <MESSAGE value="created  task 11 Math.pow()" />
     <MESSAGE value="created  task 12 typeof" />
     <MESSAGE value="created  task 13" />
     <MESSAGE value="finished" />
@@ -366,6 +390,8 @@
     <MESSAGE value="fsef" />
     <MESSAGE value="finished task_array p.1" />
     <MESSAGE value="new task" />
-    <option name="LAST_COMMIT_MESSAGE" value="new task" />
+    <MESSAGE value="object" />
+    <MESSAGE value="object finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="object finished" />
   </component>
 </project>
