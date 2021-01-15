@@ -45,7 +45,13 @@ let get = document.getElementById('rules').getElementsByClassName('fc');
 console.log(get);
 
 // - отримати всі елементи з класом fc_rules
+let elemen = document.getElementsByClassName('fc_rules');
+console.log(elemen);
 
 // - поміняти колір тексту у всіх елементів fc_rules на червоний
 
+let elements2 = document.getElementsByClassName("fc_rules")
+for (let i = 0; i < elements2.length; i++) {
+  elements2[i].style.color = 'red';
+}
 
