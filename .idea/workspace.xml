@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ffa204d-e7c2-4f94-8a34-eed9617efb51" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/js/task_array2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/task_object1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons_object/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons_object/main_script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/task_array1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_array/task_array1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/task_array2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_array/task_array2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/task_object1.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/task_object1.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,9 +21,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
         <option value="SCSS File" />
+        <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -56,6 +59,12 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Admin\Desktop\start project\css" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Desktop\js_intensiv_1\Lesson_array" />
+      <recent name="C:\Users\Admin\Desktop\js_intensiv_1" />
+      <recent name="C:\Users\Admin\Desktop\js_intensiv_1\images\Lessons_object" />
+      <recent name="C:\Users\Admin\Desktop\js_intensiv_1\js\lessons1" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -76,7 +85,9 @@
       <workItem from="1609933230303" duration="777000" />
       <workItem from="1610019904889" duration="6442000" />
       <workItem from="1610096085822" duration="20261000" />
-      <workItem from="1610200557794" duration="54069000" />
+      <workItem from="1610200557794" duration="61385000" />
+      <workItem from="1610477271731" duration="2223000" />
+      <workItem from="1610722312570" duration="17819000" />
     </task>
     <task id="LOCAL-00001" summary="create 1 task">
       <created>1609849948939</created>
@@ -316,14 +327,20 @@
       <option name="project" value="LOCAL" />
       <updated>1610279862396</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="new task">
+      <created>1610392341614</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1610392341614</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="created  task 9 parseFloat()" />
     <MESSAGE value="created  task 10 Math.round" />
     <MESSAGE value="created  task 11 Math.pow()" />
     <MESSAGE value="created  task 12 typeof" />
@@ -348,6 +365,7 @@
     <MESSAGE value="finished all first task" />
     <MESSAGE value="fsef" />
     <MESSAGE value="finished task_array p.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished task_array p.1" />
+    <MESSAGE value="new task" />
+    <option name="LAST_COMMIT_MESSAGE" value="new task" />
   </component>
 </project>

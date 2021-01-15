@@ -1,4 +1,3 @@
-'use strict'
 
 // - Дан масив [1, 2, 3]. Зробіть з нього новий масив [3, 2, 1].
 
@@ -12,7 +11,10 @@ for (let j = arrOne.length - 1; j >= 0; j--) {
 // - Дан масив ['a', 'b', 'c']. Додайте йому в кінець елементи 1, 2, 3 за допомогою циклу.
 
 let arrAbc = ['a', 'b', 'c'];
-arrAbc.push(1, 2, 3);
+for (let j = 0; j <= 3; j++) {
+  arrAbc.push(j);
+
+}
 console.log(arrAbc);
 
 
@@ -105,7 +107,7 @@ for (let c = 0; c < arrNumT1.length; c++) {
 
 }
 
-// //
+// //7. замінити кожне число кратне 3 на слово "okten"
 let arrNumT4 = [2,17,13,6,22,31,45,66,100,-18];
 
 for (let z = 0; z < arrNumT4.length; z++) {
@@ -136,11 +138,12 @@ while (h > 0){
 }
 
 // 2. перебрати його циклом for (с заду на перед)
-
-for (let j = 1; j > 0; j--) {
-  console.log(arrNumT2);
+let arr = []
+for (let j = 10; j >= 0; j--) {
+ arr = arrNumT2[j]
 
 }
+console.log(arr);
 // 3. перебрати циклом while та вивести  числа тільки з непарним індексом (с заду на перед)
 //
 let q = arrNumT2.length;
@@ -226,12 +229,90 @@ console.log(arrAny2);
 
 let arrTest1 = [];
 
-for (let j = 0; j < 10; j++) {
-
-
-  arrTest1[i] = Math.floor(Math.random() * 10);
-arrTest1.push(j)
+for (let j = 0; j < 11; j++) {
+  arrTest1[j] = Math.floor(Math.random() * 50);
+  arrTest1.push(j)
 
 
 }
-console.log(arrTest1)
+console.log(arrTest1);
+
+
+
+let arrTest2 = [];
+for (let s = 0; s < 15; s++) {
+  arrTest2[s] = Math.floor((Math.random() * 732)+8);
+
+
+}
+console.log(arrTest2);
+
+// 2. вывести на консоль  каждый третий елемент
+for (let d = 2; d < arrTest2.length; d+=3) {
+  console.log(arrTest2[d]);
+
+}
+
+// 3. вывести на консоль  каждый третий елемент
+// но при условии что его значение является парным.
+for (let m = 2; m < arrTest2.length; m+=3) {
+  if (arrTest2[m] % 2 === 0){
+    console.log(arrTest2[m]);
+
+
+  }
+
+}
+
+// 4. вывести на консоль  каждый третий елемент
+// но при условии что он имеет парное значение и
+// записать их в другой массив.
+
+
+let arrTest3 = [];
+for (let m = 2; m < arrTest2.length; m+=3) {
+  if (arrTest2[m] % 2 === 0){
+   arrTest3.push(arrTest2[m]);
+
+
+  }
+
+}
+console.log(arrTest3);
+
+// 4 створити масив з будь якими значеннями (стрінги, числа, і тд...). пройтись по ньому, і якщо об'єкт є числом,
+// додати його в інший маси
+
+let arrAnyTest = [1, 'hello' , false, 'one', 256, true, -54, 'two'];
+let newNum = [];
+for (let j = 0; j < arrAnyTest.length; j++) {
+  if (typeof arrAnyTest[j] === 'number'){
+    newNum.push(arrAnyTest[j]);
+  }
+
+}
+console.log(newNum);
+
+// 3 створити масив з рандомними значеннями, помножити всі його елементи на 5 та перемістити їх в інший масив.
+let arrRand = [];
+let arrNewRand = [];
+for (let j = 0; j < 10; j++) {
+  arrRand[j] = Math.floor(Math.random() * 20);
+  arrNewRand[j] = arrRand[j]*5;
+  arrNewRand.push(arrRand[j]);
+
+
+}
+console.log(arrRand);
+console.log(arrNewRand);
+
+// масив з числами [100,250,50,168,120,345,188], Які характеризують вартість окремої покупки. обрахувати середній чек.
+
+let arrSum = [100,250,50,168,120,345,188];
+let sum = 0;
+for (let j = 0; j < arrSum.length; j++) {
+  sum += arrSum[j]/arrSum.length;
+
+}
+console.log(sum);
+
